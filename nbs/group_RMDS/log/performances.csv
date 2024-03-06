@@ -1,0 +1,10 @@
+model,split,rmse,r2
+dummy,train,0.1426,0.0
+dummy,val,0.1224,-0.0753
+dummy,test,0.12,-0.0734
+linear-instant,train,0.1425,0.0023
+linear-instant,val,0.127,-0.1575
+linear-instant,test,0.1161,-0.0053
+linear-weather,train,0.1287,0.1855
+linear-weather,val,0.1163,0.0295
+linear-weather,test,0.1087,0.1189
